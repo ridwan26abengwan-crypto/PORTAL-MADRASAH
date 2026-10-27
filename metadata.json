@@ -1,0 +1,6 @@
+{
+  "name": "Portal GTK MI Darussalam",
+  "description": "Portal Guru dan Tenaga Kependidikan MI Darussalam Pinangsari, Ciasem, Subang. Manajemen data GTK, jadwal pelajaran, pengumuman, dan profil guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
